@@ -1,4 +1,5 @@
 counter = 0
+
 while counter < 20
   loop do
     if counter > 5
